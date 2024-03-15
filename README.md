@@ -7,4 +7,6 @@ This project was carried out as part of the statistics course and the main goal 
 
 - Q2 - Is there a relationship between the action time and the number of burned areas?
 
+- Q3 - Fires with TempoAcao greater than 13 minutes have a AreaTotalQueimada above than 50 acres?
+
 In order to create this variable **(TempoAcao)**, I subtracted **Data Intervencao** and **HoraIntervencao** (which is the date and the time that the firefights start to fight the fire) to **Data** and **HoraAlerta** (which is the date and the time that was given the alert).
